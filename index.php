@@ -19,7 +19,7 @@
         <a href="php/food.php">Food Services</a>
     </nav>
     <div class="container">
-        <img src="images/hotel.jpeg" alt="Hotel" class="hotel-image">
+        <img src="images/hotel.jpg" alt="Hotel" class="hotel-image">
         <h2>Contact Information</h2>
         <p>Email: info@hotelbooking.com</p>
         <p>Phone: +1 234 567 890</p>
