@@ -9,7 +9,7 @@
 <body>
     <header>
         <img src="images/logo.png" alt="Hotel Logo" class="logo">
-        <h1>Welcome to Our Hotel</h1>
+        <h1>Welcome to Sapphire Hotels</h1>
     </header>
     <nav>
         <a href="index.php">Home</a>
